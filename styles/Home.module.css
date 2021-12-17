@@ -1,0 +1,68 @@
+.carouselCaption {
+  position: absolute;
+  top: 25%;
+}
+
+.carouselImage {
+  height: 950px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.homeInfo {
+  padding-top: 10px;
+  padding-left: 20px;
+  font-size: 24px;
+}
+
+.homeImage {
+  height: 50%;
+  width: 50%;
+  margin-right: 10%;
+}
+
+.projectsSection {
+  display: flex;
+  padding: 38px;
+}
+
+.projectsInfo {
+  padding-top: 35%;
+  padding-left: 20px;
+  font-size: 24px;
+}
+
+.contactSectionPictures {
+  display: flex;
+  justify-content: space-between;
+}
+.contactImage {
+  width: 500px;
+  height: 500px;
+  object-fit: cover;
+  padding: 60px;
+}
+
+.contactInfo {
+  padding-top: 10px;
+  padding-left: 20px;
+  font-size: 24px;
+}
+
+.frontpageButton {
+  margin-left: 20px;
+  margin-bottom: 100px;
+  padding: 10px;
+  background: #153243;
+  border-color: #153243;
+}
+
+.frontpageButton:hover {
+  background-color: #13bd8d;
+  border-color: #13bd8d;
+}
+
+.frontpageTextAlign {
+  margin-left: 2%;
+  margin-right: 2%;
+}

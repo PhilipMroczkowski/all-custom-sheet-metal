@@ -1,0 +1,51 @@
+.projectsHeaderImg {
+  height: 750px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.projectsHeader {
+  padding-top: 60px;
+  padding-left: 40px;
+}
+
+.projectsInfo {
+  padding-top: 10px;
+  padding-left: 40px;
+}
+
+.projectsContainer {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.projectBox {
+  background-color: #6e8894;
+  border-radius: 20px;
+  width: 29%;
+  margin: 20px;
+  padding: 10px;
+}
+
+.projectText {
+  background: #6e8894;
+  padding: 15px;
+}
+
+.projectImage {
+  width: 530px;
+  border-radius: 20px;
+  height: 400px;
+  object-fit: cover;
+}
+
+.ourProjects {
+  padding-bottom: 25px;
+  padding-top: 25px;
+  text-align: center;
+}
+
+.extra {
+  padding-bottom: 40px;
+}
